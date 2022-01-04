@@ -1,0 +1,163 @@
+{
+  "lastUpdated": "2022-01-04T11:51:36+00:00",
+  "providerName": "Southern Illinois Championship Wrestling, LLC",
+  "language": "en-US",
+  "series": [
+    {
+      "id": "1",
+      "title": "SICW All Star Wrestling - Season 1",
+      "episodes": [
+        {
+          "id": "6c051662c611408fabac652262d2ad52",
+          "title": "S1E01 SICW All Star Wrestling",
+          "content": {
+            "dateAdded": "2021-10-10T12:35:13+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/657155753.hd.mp4?s=8cbedd2cad102e0fa4c187a083fbe1daf25766a5&profile_id=175",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 2131
+          },
+          "thumbnail": "https://i.postimg.cc/kgK5dQVm/episode1thumbnail.png",
+          "episodeNumber": 1,
+          "releaseDate": "2021-08-01",
+          "shortDescription": "S1E01 SICW All Star Wrestling",
+          "longDescription": "Match 1 Waco vs. Billy McNeil, Interview with Night Train Gary Jackson, Interview Mauler McDarby, Match 2 Professionals vs. David Lee Walker and Peyton Aires, Interview Curtis Wylde and Kowalski, Classic Footage from Tennessee - Attila Kahn vs. Sean Vincent, Interview with Travis Cook Organization, Main Event Curtis Wylde and Kowalski vs. Sean Vincent and Jason Breed",
+          "rating": {
+            "rating": "UNRATED",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "6c051662c611408fabac652262d2fd52",
+          "title": "S1E02 SICW All Star Wrestling",
+          "content": {
+            "dateAdded": "2021-10-10T12:35:13+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/657157937.hd.mp4?s=22bcd165d714d481cfec17dd82eacf7c25c6866a&profile_id=175",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 2131
+          },
+          "thumbnail": "https://i.postimg.cc/DZBZM7S4/episode2thumbnail.png",
+          "episodeNumber": 2,
+          "releaseDate": "2021-08-08",
+          "shortDescription": "S1E02 SICW All Star Wrestling",
+          "longDescription": "Interview with Travis Cook, Interview Jason Breed, Match 1 Jason Breed vs. Dexter Roswell, Interview Night Train Gary Jackson, Match 2 Richard Shaw vs. Bobby D, Main Event Ken Kasa vs. Night Train Gary Jackson",
+          "rating": {
+            "rating": "UNRATED",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "5be81b0c896d401faf8790ce45ceb1b6",
+          "title": "S1E03 SICW All Star Wrestling",
+          "content": {
+            "dateAdded": "2021-10-10T12:35:13+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/657159571.hd.mp4?s=f863b50e96757955cfc4baa02f5b4c02308a8430&profile_id=175",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1833
+          },
+          "thumbnail": "https://i.postimg.cc/RZywgQkx/episode3thumbnail.png",
+          "episodeNumber": 3,
+          "releaseDate": "2021-08-15",
+          "shortDescription": "S1E03 SICW All Star Wrestling",
+          "longDescription": "Classic Footage from Tennessee - Attila Kahn vs. Josh McGuiness, Interview with Flash Flanagan, Match 1 The Big Texan vs Peyton Aires, Interview with Travis Cook, Match 2 Bobby D vs. Kowalski, Main Event War Machine, Ken Kasa and Christopher Hargas vs. Jason Breed, Billy McNeil and Night Train Gary Jackson",
+          "rating": {
+            "rating": "UNRATED",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "29bc40a5c9f943e09bb87b84828c9b95",
+          "title": "S1E04 SICW All Star Wrestling",
+          "content": {
+            "dateAdded": "2021-10-10T12:35:13+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/657159571.hd.mp4?s=f863b50e96757955cfc4baa02f5b4c02308a8430&profile_id=175",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1833
+          },
+          "thumbnail": "https://i.postimg.cc/dtZDtP7r/episode4thumbnail.png",
+          "episodeNumber": 3,
+          "releaseDate": "2021-08-22",
+          "shortDescription": "S1E04 SICW All Star Wrestling",
+          "longDescription": "Interview with Sean Vincent, Interview with Son of the South Frankie D, Match 1 Handicapped Tag Match David Lee Walker and Peyton Aires vs. Kowalski, Interview with The Professionals, Match 2 Curtis Wylde vs. Sean Vincent, Main Event The Big Texan vs. Frankie D",
+          "rating": {
+            "rating": "UNRATED",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "3715329a236b4dc69a4f94c39461b45a",
+          "title": "S1E05 SICW All Star Wrestling",
+          "content": {
+            "dateAdded": "2021-10-10T12:35:13+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/662006742.hd.mp4?s=1f27b1d60b4755366b88b0f65d495ac9fa12011d&profile_id=175",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1833
+          },
+          "thumbnail": "https://i.postimg.cc/q7vNrt2M/episode5thumbnail.png",
+          "episodeNumber": 3,
+          "releaseDate": "2021-08-29",
+          "shortDescription": "S1E05 SICW All Star Wrestling",
+          "longDescription": "Match 1 The Big Texan vs. Gator Smith, Interview with Travis Cook and The War Machine, Interview with Frankie D, Interview with Bobby D (interrupted by Travis Cook and Steve Fender), Match 2 Bobby D vs. Superstar Steve Fender, Interview with Curtis Wylde and Kowalski, Main Event Christopher Hargas and Ken Kasa vs. Jason Breed and Sean Vincent, Interview with Flash Flanagan, Wrestling at the Chase Classic Footage Dick Murdoch vs. Pat O'Conner",
+          "rating": {
+            "rating": "UNRATED",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "fe30cd90d3dd414c8241a3030155ffe6",
+          "title": "2021 Year End Review",
+          "content": {
+            "dateAdded": "2021-10-10T12:35:13+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/662006742.hd.mp4?s=1f27b1d60b4755366b88b0f65d495ac9fa12011d&profile_id=175",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1833
+          },
+          "thumbnail": "https://i.postimg.cc/2y9hhKBF/2021yearendreview.jpg",
+          "episodeNumber": 3,
+          "releaseDate": "2022-01-02",
+          "shortDescription": "SICW All Star Wrestling 2021 Year End Review",
+          "longDescription": "Promoter Herb Simmons and Bryan Whitaker relive the greatest moments of 2021",
+          "rating": {
+            "rating": "UNRATED",
+            "ratingSource": "MPAA"
+          }
+        }
+      ],
+      "genres": [
+        "action"
+      ],
+      "thumbnail": "https://i.postimg.cc/L6mRwctm/thumbnail.png",
+      "releaseDate": "2021-10-01",
+      "shortDescription": "SICW"
+    }
+  ]
+}
