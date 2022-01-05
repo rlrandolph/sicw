@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2022-01-04T11:51:36+00:00",
+  "lastUpdated": "2022-01-05T11:49:46+00:00",
   "providerName": "Southern Illinois Championship Wrestling, LLC",
   "language": "en-US",
   "series": [
@@ -19,7 +19,8 @@
                 "videoType": "MP4"
               }
             ],
-            "duration": 2551
+            "duration": 2131,
+            "validityPeriodEnd": "2030-01-05T10:14:02+00:00"
           },
           "thumbnail": "https://i.postimg.cc/kgK5dQVm/episode1thumbnail.png",
           "episodeNumber": 1,
@@ -43,7 +44,8 @@
                 "videoType": "MP4"
               }
             ],
-            "duration": 2131
+            "duration": 2131,
+            "validityPeriodEnd": "2030-01-05T10:13:16+00:00"
           },
           "thumbnail": "https://i.postimg.cc/DZBZM7S4/episode2thumbnail.png",
           "episodeNumber": 2,
@@ -67,7 +69,8 @@
                 "videoType": "MP4"
               }
             ],
-            "duration": 1833
+            "duration": 1833,
+            "validityPeriodEnd": "2030-01-05T10:13:11+00:00"
           },
           "thumbnail": "https://i.postimg.cc/RZywgQkx/episode3thumbnail.png",
           "episodeNumber": 3,
@@ -91,10 +94,11 @@
                 "videoType": "MP4"
               }
             ],
-            "duration": 2053
+            "duration": 1833,
+            "validityPeriodEnd": "2030-01-05T10:13:07+00:00"
           },
           "thumbnail": "https://i.postimg.cc/dtZDtP7r/episode4thumbnail.png",
-          "episodeNumber": 3,
+          "episodeNumber": 4,
           "releaseDate": "2021-08-22",
           "shortDescription": "S1E04 SICW All Star Wrestling",
           "longDescription": "Interview with Sean Vincent, Interview with Son of the South Frankie D, Match 1 Handicapped Tag Match David Lee Walker and Peyton Aires vs. Kowalski, Interview with The Professionals, Match 2 Curtis Wylde vs. Sean Vincent, Main Event The Big Texan vs. Frankie D",
@@ -110,15 +114,17 @@
             "dateAdded": "2021-10-10T12:35:13+00:00",
             "videos": [
               {
-                "url": "https://player.vimeo.com/external/662006742.hd.mp4?s=1f27b1d60b4755366b88b0f65d495ac9fa12011d&profile_id=175",
+                "url": "https://player.vimeo.com/external/662421507.hd.mp4?s=003568579edca59714e3146527fcfa3a49237d96&profile_id=175",
                 "quality": "HD",
                 "videoType": "MP4"
               }
             ],
-            "duration": 1833
+            "duration": 1686,
+            "validityPeriodStart": "2022-01-05T10:12:47+00:00",
+            "validityPeriodEnd": "2030-01-01T10:12:55+00:00"
           },
           "thumbnail": "https://i.postimg.cc/q7vNrt2M/episode5thumbnail.png",
-          "episodeNumber": 3,
+          "episodeNumber": 5,
           "releaseDate": "2021-08-29",
           "shortDescription": "S1E05 SICW All Star Wrestling",
           "longDescription": "Match 1 The Big Texan vs. Gator Smith, Interview with Travis Cook and The War Machine, Interview with Frankie D, Interview with Bobby D (interrupted by Travis Cook and Steve Fender), Match 2 Bobby D vs. Superstar Steve Fender, Interview with Curtis Wylde and Kowalski, Main Event Christopher Hargas and Ken Kasa vs. Jason Breed and Sean Vincent, Interview with Flash Flanagan, Wrestling at the Chase Classic Footage Dick Murdoch vs. Pat O'Conner",
@@ -139,13 +145,118 @@
                 "videoType": "MP4"
               }
             ],
-            "duration": 1812
+            "duration": 1833,
+            "validityPeriodEnd": "2030-01-05T10:13:01+00:00"
           },
           "thumbnail": "https://i.postimg.cc/2y9hhKBF/2021yearendreview.jpg",
-          "episodeNumber": 3,
-          "releaseDate": "2022-01-02",
+          "episodeNumber": 23,
+          "releaseDate": "2021-12-31",
           "shortDescription": "SICW All Star Wrestling 2021 Year End Review",
           "longDescription": "Promoter Herb Simmons and Bryan Whitaker relive the greatest moments of 2021",
+          "rating": {
+            "rating": "UNRATED",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "280a7760bd0f45fd8a21c6877e9dbe91",
+          "title": "S1E19 SICW All Star Wrestling",
+          "content": {
+            "dateAdded": "2021-10-10T12:35:13+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/662365504.hd.mp4?s=bd3e188c3731459a406d440e5019effcd434c031&profile_id=175",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 2338,
+            "validityPeriodStart": "2022-01-05T10:12:47+00:00",
+            "validityPeriodEnd": "2030-01-01T10:12:55+00:00"
+          },
+          "thumbnail": "https://i.postimg.cc/J0GD2H7b/episode19thumbnail.png",
+          "episodeNumber": 19,
+          "releaseDate": "2021-12-05",
+          "shortDescription": "S1E19 SICW All Star Wrestling",
+          "longDescription": "Big Texan vs. Mauler McDarby, Interview w/ Flash Flanagan, Flash Flanagan vs. Ken Kasa, Interview Herb Simmons w/ Jerry Brisco, Classic Footage Spike Huber vs. Harley Race",
+          "rating": {
+            "rating": "UNRATED",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "ce24adfff5884f59956abc9f567bd14a",
+          "title": "S1E20 SICW All Star Wrestling",
+          "content": {
+            "dateAdded": "2021-10-10T12:35:13+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/662365504.hd.mp4?s=bd3e188c3731459a406d440e5019effcd434c031&profile_id=175",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 2338,
+            "validityPeriodStart": "2022-01-05T10:12:47+00:00",
+            "validityPeriodEnd": "2030-01-01T10:12:55+00:00"
+          },
+          "thumbnail": "https://i.postimg.cc/Vvq6T9Q0/episode20thumbnail.png",
+          "episodeNumber": 20,
+          "releaseDate": "2021-12-12",
+          "shortDescription": "S1E20 SICW All Star Wrestling",
+          "longDescription": "Payton Aires vs. Gil Rogers, Interview w/ Bobby D, Mauler McDarby vs. Gary Jackson, Interview w/ Mauler McDarby, Rough Cut Rick Ruby vs. Bobby D, Classic Footage of Dory Funk Jr. vs. Bruiser Brody",
+          "rating": {
+            "rating": "UNRATED",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "d49fe3d88870422f85b30da463374c61",
+          "title": "S1E21 SICW All Star Wrestling",
+          "content": {
+            "dateAdded": "2021-10-10T12:35:13+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/662365504.hd.mp4?s=bd3e188c3731459a406d440e5019effcd434c031&profile_id=175",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 2338,
+            "validityPeriodStart": "2022-01-05T10:12:47+00:00",
+            "validityPeriodEnd": "2030-01-01T10:12:55+00:00"
+          },
+          "thumbnail": "https://i.postimg.cc/0QpP28tL/episode21thumbnail.png",
+          "episodeNumber": 21,
+          "releaseDate": "2021-12-19",
+          "shortDescription": "S1E21 SICW All Star Wrestling",
+          "longDescription": "Richard Shaw vs. Billy McNeil, Interview w/ Jason Breed, Interview w/ Franko Varga, Interview w/ Frankie D, Frankie D. vs. David Lee Walker, Ken Kasa vs. Niles Plonke",
+          "rating": {
+            "rating": "UNRATED",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "a440b0c4d8fe47db8f486ca59fbf6586",
+          "title": "S1E22 SICW All Star Wrestling",
+          "content": {
+            "dateAdded": "2021-10-10T12:35:13+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/662365504.hd.mp4?s=bd3e188c3731459a406d440e5019effcd434c031&profile_id=175",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 2338,
+            "validityPeriodStart": "2022-01-05T10:12:47+00:00",
+            "validityPeriodEnd": "2030-01-01T10:12:55+00:00"
+          },
+          "thumbnail": "https://i.postimg.cc/8c0y2vRD/episode22thumbnail.png",
+          "episodeNumber": 22,
+          "releaseDate": "2021-12-26",
+          "shortDescription": "S1E22 SICW All Star Wrestling",
+          "longDescription": "Flash Flanagan vs. Mauler McDarby, Interview w/ Travis Cook, Interview w/ Miranda Gordy, Richard Shaw vs. Tony Raze, Interview w/ Kowalski, Interview w/ Billy McNeil, Jason Breed vs. Frankie D",
           "rating": {
             "rating": "UNRATED",
             "ratingSource": "MPAA"
