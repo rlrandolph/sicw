@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2022-01-05T11:57:54+00:00",
+  "lastUpdated": "2022-01-11T11:50:34+00:00",
   "providerName": "Southern Illinois Championship Wrestling, LLC",
   "language": "en-US",
   "series": [
@@ -111,15 +111,15 @@
           "id": "3715329a236b4dc69a4f94c39461b45a",
           "title": "S1E05 SICW All Star Wrestling",
           "content": {
-            "dateAdded": "2021-10-10T12:35:13+00:00",
+            "dateAdded": "2021-10-10T11:48:22+00:00",
             "videos": [
               {
-                "url": "https://player.vimeo.com/external/662421507.hd.mp4?s=003568579edca59714e3146527fcfa3a49237d96&profile_id=175",
+                "url": "https://player.vimeo.com/external/664863644.hd.mp4?s=d1c577a9f28410224c1adb788000b12c570543ef&profile_id=175",
                 "quality": "HD",
                 "videoType": "MP4"
               }
             ],
-            "duration": 1686,
+            "duration": 2299,
             "validityPeriodStart": "2022-01-05T10:12:47+00:00",
             "validityPeriodEnd": "2030-01-01T10:12:55+00:00"
           },
@@ -162,15 +162,15 @@
           "id": "280a7760bd0f45fd8a21c6877e9dbe91",
           "title": "S1E19 SICW All Star Wrestling",
           "content": {
-            "dateAdded": "2021-10-10T12:35:13+00:00",
+            "dateAdded": "2021-11-07T11:37:29+00:00",
             "videos": [
               {
-                "url": "https://player.vimeo.com/external/662421507.hd.mp4?s=003568579edca59714e3146527fcfa3a49237d96&profile_id=175",
-                "quality": "HD",
+                "url": "https://player.vimeo.com/external/664847591.sd.mp4?s=9cd61717faf96c4ebe57d499e2e86d0f98925db6&profile_id=165",
+                "quality": "SD",
                 "videoType": "MP4"
               }
             ],
-            "duration": 2338,
+            "duration": 2618,
             "validityPeriodStart": "2022-01-05T10:12:47+00:00",
             "validityPeriodEnd": "2030-01-01T10:12:55+00:00"
           },
@@ -257,6 +257,214 @@
           "releaseDate": "2021-12-26",
           "shortDescription": "S1E22 SICW All Star Wrestling",
           "longDescription": "Flash Flanagan vs. Mauler McDarby, Interview w/ Travis Cook, Interview w/ Miranda Gordy, Richard Shaw vs. Tony Raze, Interview w/ Kowalski, Interview w/ Billy McNeil, Jason Breed vs. Frankie D",
+          "rating": {
+            "rating": "UNRATED",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "022fcd46e78a441eaffdb16b52cb8338",
+          "title": "S1E17 SICW All Star Wrestling",
+          "content": {
+            "dateAdded": "2021-11-07T11:37:29+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/664847591.sd.mp4?s=9cd61717faf96c4ebe57d499e2e86d0f98925db6&profile_id=165",
+                "quality": "SD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 2618,
+            "validityPeriodStart": "2022-01-05T10:12:47+00:00",
+            "validityPeriodEnd": "2030-01-01T10:12:55+00:00"
+          },
+          "thumbnail": "https://i.postimg.cc/6QDCXsK6/episode17thumbnail.jpg",
+          "episodeNumber": 17,
+          "releaseDate": "2021-11-21",
+          "shortDescription": "S1E17 SICW All Star Wrestling",
+          "longDescription": "Richard Shaw vs. Danny Dollar, Interview w/ Pete Madden, Waco vs. Gary Jackson, Interview w/ Gil Rogers, Ken Kasa vs. Gil Rogers",
+          "rating": {
+            "rating": "UNRATED",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "fd95818136744aa98db2cf3b8b3d1edb",
+          "title": "S1E18 SICW All Star Wrestling",
+          "content": {
+            "dateAdded": "2021-11-07T11:37:29+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/664847591.sd.mp4?s=9cd61717faf96c4ebe57d499e2e86d0f98925db6&profile_id=165",
+                "quality": "SD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 2618,
+            "validityPeriodStart": "2022-01-05T10:12:47+00:00",
+            "validityPeriodEnd": "2030-01-01T10:12:55+00:00"
+          },
+          "thumbnail": "https://i.postimg.cc/MKCwVdzM/episode18thumbnail.jpg",
+          "episodeNumber": 18,
+          "releaseDate": "2021-11-28",
+          "shortDescription": "S1E18 SICW All Star Wrestling",
+          "longDescription": "Franco Varga vs. Billy McNeil, Interview w/ Kowalski, Kowalski Body Slam Challenge w/ Peyton Aires and David Lee Walker, Handicapped Match Kowalski vs. Peyton Aires and David Lee Walker, Interview w/ Travis Cook and Atilla Kahn, Richard Shaw and Rick Ruby vs. Danny Dollar and Bobby D",
+          "rating": {
+            "rating": "UNRATED",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "8c0564f59f3242d4885967f1b12a32db",
+          "title": "S1E16 SICW All Star Wrestling",
+          "content": {
+            "dateAdded": "2021-11-07T11:37:29+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/664847591.sd.mp4?s=9cd61717faf96c4ebe57d499e2e86d0f98925db6&profile_id=165",
+                "quality": "SD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 2618,
+            "validityPeriodStart": "2022-01-05T10:12:47+00:00",
+            "validityPeriodEnd": "2030-01-01T10:12:55+00:00"
+          },
+          "thumbnail": "https://i.postimg.cc/43tQn4BH/episode16thumbnail.jpg",
+          "episodeNumber": 16,
+          "releaseDate": "2021-11-14",
+          "shortDescription": "S1E16 SICW All Star Wrestling",
+          "longDescription": "Interview with The Big Texan",
+          "rating": {
+            "rating": "UNRATED",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "6816f021077a4a509564975d5243bf0f",
+          "title": "S1E15 SICW Halloween Spooktacular Recap",
+          "content": {
+            "dateAdded": "2021-11-07T11:37:29+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/664847591.sd.mp4?s=9cd61717faf96c4ebe57d499e2e86d0f98925db6&profile_id=165",
+                "quality": "SD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 2618,
+            "validityPeriodStart": "2022-01-05T10:12:47+00:00",
+            "validityPeriodEnd": "2030-01-01T10:12:55+00:00"
+          },
+          "thumbnail": "https://i.postimg.cc/sxRjym1Z/episode15thumbnail.jpg",
+          "episodeNumber": 15,
+          "releaseDate": "2021-11-07",
+          "shortDescription": "S1E15 SICW All Star Wrestling",
+          "longDescription": "Halloween Spooktacular Recap",
+          "rating": {
+            "rating": "UNRATED",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "c9fe658b24714509afb078cf09f466fd",
+          "title": "S1E14 SICW All Star Wrestling",
+          "content": {
+            "dateAdded": "2021-10-10T11:48:22+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/664863644.hd.mp4?s=d1c577a9f28410224c1adb788000b12c570543ef&profile_id=175",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 2299,
+            "validityPeriodStart": "2022-01-05T10:12:47+00:00",
+            "validityPeriodEnd": "2030-01-01T10:12:55+00:00"
+          },
+          "thumbnail": "https://i.postimg.cc/3r9V39y5/episode14thumbnail.jpg",
+          "episodeNumber": 14,
+          "releaseDate": "2021-10-31",
+          "shortDescription": "S1E14 SICW All Star Wrestling",
+          "longDescription": "Interview with Big Texan and Tyler Bodine, Big Texan and Tyler Bodine vs. Richard Shaw and Wildman Beast, Interview w/ Rough Cut Rick Ruby, Interview w/ Flash Flanagan and Jason Breed, Flash Flanagan and Jason Breed vs. Valhalla Rising, Interview w/ Niles Plonke, Niles Plone vs. Superstar Steve Fender",
+          "rating": {
+            "rating": "UNRATED",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "b1e9e6cb321a42b68b1803f9c1f7cc25",
+          "title": "S1E13 SICW All Star Wrestling",
+          "content": {
+            "dateAdded": "2021-10-10T11:48:22+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/664863644.hd.mp4?s=d1c577a9f28410224c1adb788000b12c570543ef&profile_id=175",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 2299,
+            "validityPeriodStart": "2022-01-05T10:12:47+00:00",
+            "validityPeriodEnd": "2030-01-01T10:12:55+00:00"
+          },
+          "thumbnail": "https://i.postimg.cc/8C1LkdJ9/episode13thumbnail.jpg",
+          "episodeNumber": 13,
+          "releaseDate": "2021-10-24",
+          "shortDescription": "S1E13 SICW All Star Wrestling",
+          "longDescription": "Cylix O'Conner vs. Bobby D, Interview w/ Travis Cook and Atilla Kahn, Interview w/ The Professionals, Interview w/ Sean Vincent, Kowalski vs. The Wonderer, Interview w/ Jason Breed, Interview with Gil Rogers and Gary Jackson, Attila Kahn vs. Danny Dollar",
+          "rating": {
+            "rating": "UNRATED",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "9b2f7c47f777446e9a3b9045689b793a",
+          "title": "S1E12 SICW All Star Wrestling",
+          "content": {
+            "dateAdded": "2021-10-10T11:48:22+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/664863644.hd.mp4?s=d1c577a9f28410224c1adb788000b12c570543ef&profile_id=175",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 2299,
+            "validityPeriodStart": "2022-01-05T10:12:47+00:00",
+            "validityPeriodEnd": "2030-01-01T10:12:55+00:00"
+          },
+          "thumbnail": "https://i.postimg.cc/pL7y4DQK/episode12thumbnail.jpg",
+          "episodeNumber": 12,
+          "releaseDate": "2021-10-17",
+          "shortDescription": "S1E12 SICW All Star Wrestling",
+          "longDescription": "David Lee Walker vs. Rough Cut Rick Ruby, Waco vs. The Big Texan, Interview w/ Rough Cut Rick Ruby, Interview w/ The Professionals, Christopher Hargas and Ken Kasa vs. Sean Vincent and Billy McNeil",
+          "rating": {
+            "rating": "UNRATED",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "8ddec29476334e47874163b45e2b8659",
+          "title": "S1E11 SICW All Star Wrestling",
+          "content": {
+            "dateAdded": "2021-10-10T11:48:22+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/664863644.hd.mp4?s=d1c577a9f28410224c1adb788000b12c570543ef&profile_id=175",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 2299,
+            "validityPeriodStart": "2022-01-05T10:12:47+00:00",
+            "validityPeriodEnd": "2030-01-01T10:12:55+00:00"
+          },
+          "thumbnail": "https://i.postimg.cc/zB2QFGYD/episode11thumbnail.jpg",
+          "episodeNumber": 11,
+          "releaseDate": "2021-10-10",
+          "shortDescription": "S1E11 SICW All Star Wrestling",
+          "longDescription": "Billy McNeil vs. Derrick Stone, Interview w/ Gil Rogers, Interview w/ Jason Breed, Interview w/ Kowalski, Kowalski vs. Sean Vincent, Interview with Travis Cook Organization, Steve Fender and Atilla Kahn vs. Gil Rogers and Gary Jackson",
           "rating": {
             "rating": "UNRATED",
             "ratingSource": "MPAA"
