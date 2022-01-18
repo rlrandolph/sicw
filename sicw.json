@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2022-01-11T11:50:34+00:00",
+  "lastUpdated": "2022-01-18T09:27:15+00:00",
   "providerName": "Southern Illinois Championship Wrestling, LLC",
   "language": "en-US",
   "series": [
@@ -474,8 +474,46 @@
       "genres": [
         "action"
       ],
-      "thumbnail": "https://i.postimg.cc/L6mRwctm/thumbnail.png",
+      "thumbnail": "https://i.postimg.cc/kGw2qswX/season1.jpg",
       "releaseDate": "2021-10-01",
+      "shortDescription": "SICW"
+    },
+    {
+      "id": "530c235e9c4a493f8ffd14b934799585",
+      "title": "SICW All Star Wrestling - Season 2",
+      "episodes": [
+        {
+          "id": "406132bb3ebe4e8fa7dd699f35b3d838",
+          "title": "S2E01 SICW All Star Wrestling",
+          "content": {
+            "dateAdded": "2022-01-16T09:20:11+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/external/665801688.hd.mp4?s=bf3ce51961a1489a34800f67b2857d4881ec6b3a&profile_id=175",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 1589,
+            "validityPeriodStart": "2022-01-16T09:20:15+00:00",
+            "validityPeriodEnd": "2036-01-18T09:20:24+00:00"
+          },
+          "thumbnail": "https://i.postimg.cc/KjQ2Rsdw/s2e1thumbnail.jpg",
+          "episodeNumber": 1,
+          "releaseDate": "2022-01-16",
+          "shortDescription": "S2E01 SICW All Star Wrestling",
+          "longDescription": "Promoter Herb Simmons and Bryan Whitaker discuss upcoming events for 2022 and take a look back at some historic wrestling footage",
+          "rating": {
+            "rating": "UNRATED",
+            "ratingSource": "MPAA"
+          }
+        }
+      ],
+      "genres": [
+        "action"
+      ],
+      "thumbnail": "https://i.postimg.cc/kg22PxSq/season2.jpg",
+      "releaseDate": "2022-01-01",
       "shortDescription": "SICW"
     }
   ]
