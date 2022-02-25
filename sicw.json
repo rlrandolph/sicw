@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2022-02-22T11:11:01+00:00",
+  "lastUpdated": "2022-02-25T03:23:04+00:00",
   "providerName": "Southern Illinois Championship Wrestling, LLC",
   "language": "en-US",
   "series": [
@@ -772,22 +772,48 @@
           "id": "b94882826898495c8426285aedca9bb0",
           "title": "S2E07 SICW All Star Wrestling",
           "content": {
-            "dateAdded": "2022-02-20T11:09:48+00:00",
+            "dateAdded": "2022-02-28T15:22:59+00:00",
             "videos": [
               {
-                "url": "https://player.vimeo.com/progressive_redirect/playback/679299491/rendition/1080p?loc=external&signature=9ae10e58553ad3c2de8138459ca0a16350d323b7bbae743a7b5fee47a58669a0",
+                "url": "https://player.vimeo.com/progressive_redirect/playback/682040281/rendition/360p?loc=external&signature=09c49ecae9adcb4171cb1712efde256f179d1c8409c887dd09b150762406e1d3",
                 "quality": "HD",
                 "videoType": "MP4"
               }
             ],
-            "duration": 3314,
-            "validityPeriodStart": "2022-02-20T11:09:52+00:00",
-            "validityPeriodEnd": "2036-01-18T09:20:24+00:00"
+            "duration": 2608,
+            "validityPeriodStart": "2022-02-28T15:23:09+00:00",
+            "validityPeriodEnd": "2036-02-24T14:25:15+00:00"
           },
           "thumbnail": "https://i.postimg.cc/Nj5ns9LN/s02e07.jpg",
           "episodeNumber": 7,
           "releaseDate": "2022-02-20",
           "shortDescription": "S2E07 SICW All Star Wrestling",
+          "longDescription": ".",
+          "rating": {
+            "rating": "UNRATED",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "d9cc17538fc04a079cf9bf9160dbb5f8",
+          "title": "S2E08 SICW All Star Wrestling",
+          "content": {
+            "dateAdded": "2022-02-28T15:22:59+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/progressive_redirect/playback/682040281/rendition/360p?loc=external&signature=09c49ecae9adcb4171cb1712efde256f179d1c8409c887dd09b150762406e1d3",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 2608,
+            "validityPeriodStart": "2022-02-28T15:23:09+00:00",
+            "validityPeriodEnd": "2036-02-24T14:25:15+00:00"
+          },
+          "thumbnail": "https://i.postimg.cc/8cw8knwF/s02e08.jpg",
+          "episodeNumber": 8,
+          "releaseDate": "2022-02-28",
+          "shortDescription": "S2E08 SICW All Star Wrestling",
           "longDescription": ".",
           "rating": {
             "rating": "UNRATED",
