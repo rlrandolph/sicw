@@ -798,7 +798,7 @@
           "id": "d9cc17538fc04a079cf9bf9160dbb5f8",
           "title": "S2E08 SICW All Star Wrestling",
           "content": {
-            "dateAdded": "2022-02-28T15:22:59+00:00",
+            "dateAdded": "2022-02-27T15:22:59+00:00",
             "videos": [
               {
                 "url": "https://player.vimeo.com/progressive_redirect/playback/682040281/rendition/360p?loc=external&signature=09c49ecae9adcb4171cb1712efde256f179d1c8409c887dd09b150762406e1d3",
@@ -807,12 +807,12 @@
               }
             ],
             "duration": 2608,
-            "validityPeriodStart": "2022-02-28T15:23:09+00:00",
+            "validityPeriodStart": "2022-02-27T15:23:09+00:00",
             "validityPeriodEnd": "2036-02-24T14:25:15+00:00"
           },
           "thumbnail": "https://i.postimg.cc/8cw8knwF/s02e08.jpg",
           "episodeNumber": 8,
-          "releaseDate": "2022-02-28",
+          "releaseDate": "2022-02-27",
           "shortDescription": "S2E08 SICW All Star Wrestling",
           "longDescription": ".",
           "rating": {
