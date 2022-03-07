@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2022-02-25T03:23:04+00:00",
+  "lastUpdated": "2022-03-07T02:00:07+00:00",
   "providerName": "Southern Illinois Championship Wrestling, LLC",
   "language": "en-US",
   "series": [
@@ -801,7 +801,7 @@
             "dateAdded": "2022-02-27T15:22:59+00:00",
             "videos": [
               {
-                "url": "https://player.vimeo.com/progressive_redirect/playback/682040281/rendition/360p?loc=external&signature=09c49ecae9adcb4171cb1712efde256f179d1c8409c887dd09b150762406e1d3",
+                "url": "https://player.vimeo.com/progressive_redirect/playback/684749665/rendition/1080p?loc=external&signature=09fdb72d034e27155261ac6bf19a8b7b0a46c206c6f1dea00c800768bf7599ef",
                 "quality": "HD",
                 "videoType": "MP4"
               }
@@ -814,6 +814,32 @@
           "episodeNumber": 8,
           "releaseDate": "2022-02-27",
           "shortDescription": "S2E08 SICW All Star Wrestling",
+          "longDescription": ".",
+          "rating": {
+            "rating": "UNRATED",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "b9bab53fca114e8c95ee4fd80256a939",
+          "title": "S2E09 SICW All Star Wrestling",
+          "content": {
+            "dateAdded": "2022-02-27T15:22:59+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/progressive_redirect/playback/684749665/rendition/1080p?loc=external&signature=09fdb72d034e27155261ac6bf19a8b7b0a46c206c6f1dea00c800768bf7599ef",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 2608,
+            "validityPeriodStart": "2022-02-27T15:23:09+00:00",
+            "validityPeriodEnd": "2036-02-24T14:25:15+00:00"
+          },
+          "thumbnail": "https://i.postimg.cc/T2bQFmx3/s02e09.jpg",
+          "episodeNumber": 9,
+          "releaseDate": "2022-03-06",
+          "shortDescription": "S2E09 SICW All Star Wrestling",
           "longDescription": ".",
           "rating": {
             "rating": "UNRATED",
