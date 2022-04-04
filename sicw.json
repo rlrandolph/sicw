@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2022-03-20T07:09:09+00:00",
+  "lastUpdated": "2022-04-03T07:51:04+00:00",
   "providerName": "Southern Illinois Championship Wrestling, LLC",
   "language": "en-US",
   "series": [
@@ -879,12 +879,12 @@
             "dateAdded": "2022-03-13T19:08:13+00:00",
             "videos": [
               {
-                "url": "https://player.vimeo.com/progressive_redirect/playback/687212766/rendition/1080p?loc=external&signature=54b11f26fff1732d95a089951f61c4d49ada89c2adeac6854ac866737a2f1993",
+                "url": "https://player.vimeo.com/progressive_redirect/playback/693716438/rendition/720p?loc=external&signature=75ae65d846a18611c1bd64e1b2461370c7fb0c3c28d6badc352693123b075845",
                 "quality": "HD",
                 "videoType": "MP4"
               }
             ],
-            "duration": 3461,
+            "duration": 3364,
             "validityPeriodStart": "2022-03-12T23:21:48+00:00",
             "validityPeriodEnd": "2036-02-24T14:25:15+00:00"
           },
@@ -892,6 +892,32 @@
           "episodeNumber": 10,
           "releaseDate": "2022-03-20",
           "shortDescription": "S2E11 SICW All Star Wrestling",
+          "longDescription": ".",
+          "rating": {
+            "rating": "UNRATED",
+            "ratingSource": "MPAA"
+          }
+        },
+        {
+          "id": "03a4caca9b4e4cf8aea1345a8bd931b3",
+          "title": "S2E13 SICW All Star Wrestling - Copy",
+          "content": {
+            "dateAdded": "2022-03-13T19:08:13+00:00",
+            "videos": [
+              {
+                "url": "https://player.vimeo.com/progressive_redirect/playback/693716438/rendition/720p?loc=external&signature=75ae65d846a18611c1bd64e1b2461370c7fb0c3c28d6badc352693123b075845",
+                "quality": "HD",
+                "videoType": "MP4"
+              }
+            ],
+            "duration": 3364,
+            "validityPeriodStart": "2022-03-12T23:21:48+00:00",
+            "validityPeriodEnd": "2036-02-24T14:25:15+00:00"
+          },
+          "thumbnail": "https://i.postimg.cc/Y9Pdk2gL/s02e13.jpg",
+          "episodeNumber": 13,
+          "releaseDate": "2022-04-03",
+          "shortDescription": "S2E13 SICW All Star Wrestling",
           "longDescription": ".",
           "rating": {
             "rating": "UNRATED",
